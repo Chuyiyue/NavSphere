@@ -14,14 +14,6 @@
           "enabled": true
         },
         {
-          "id": "1_1",
-          "title": "Google Analytics",
-          "href": "https://analytics.google.com/",
-          "description": "Google分析（Google Analytics）是一个由Google所提供的网站流量统计服务。",
-          "icon": "/assets/images/logos/analytics.ico",
-          "enabled": true
-        },
-        {
           "id": "1_3",
           "title": "Cloudflare",
           "href": "https://dash.cloudflare.com/",
@@ -784,14 +776,6 @@
               "enabled": true
             },
             {
-              "id": "8_1_9",
-              "title": "UICloud",
-              "href": "http://ui-cloud.com/",
-              "description": "The largest user interface design database in the world.",
-              "icon": "/assets/images/logos/UICloud.png",
-              "enabled": true
-            },
-            {
               "id": "8_1_10",
               "title": "Material icons",
               "href": "https://material.io/icons/",
@@ -847,22 +831,6 @@
               "description": "Showcasing beautiful icon designs from the iOS App Store",
               "icon": "/assets/images/logos/iosicongallery.png",
               "enabled": true
-            },
-            {
-              "id": "8_2_3",
-              "title": "World Vector Logo",
-              "href": "https://worldvectorlogo.com/",
-              "description": "Brand logos free to download",
-              "icon": "/assets/images/logos/worldvectorlogo.png",
-              "enabled": true
-            },
-            {
-              "id": "8_2_4",
-              "title": "Instant Logo Search",
-              "href": "http://instantlogosearch.com/",
-              "description": "Search & download thousands of logos instantly",
-              "icon": "/assets/images/logos/InstantLogoSearch.png",
-              "enabled": true
             }
           ]
         },
@@ -873,14 +841,6 @@
           "icon": "",
           "description": "",
           "items": [
-            {
-              "id": "8_3_1",
-              "title": "Freepik",
-              "href": "https://www.freepik.com/",
-              "description": "免费矢量素材",
-              "icon": "/assets/images/logos/freepik.png",
-              "enabled": true
-            },
             {
               "id": "8_3_2",
               "title": "Unsplash",
