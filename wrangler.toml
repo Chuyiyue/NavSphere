@@ -10,4 +10,4 @@ GITHUB_REPO = "NavSphere"
 GITHUB_BRANCH = "main"
 NEXTAUTH_URL = "https://navs.oonn.me/api/auth"
 NEXT_PUBLIC_API_URL="https://navs.oonn.me"
-
+GITHUB_SECRET="b094f0ca9f88a8b71a12ee4f45188bb8435fe115"
